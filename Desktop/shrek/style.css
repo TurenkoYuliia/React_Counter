@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    background-image: url(img/spjtZ9u.jpg);
+    background-color: #c2fb91;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+    background-color: rgba(255, 164, 209, 0.95);
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.shrek__up{
+    font-size: 60px;
+    color: rgb(255, 0, 140);
+    margin-left: 380px;
+}
+
+.container img {
+    margin: 30px;
+    border-radius: 5px;
+    width: 500px;
+}
+.best{
+    font-size: 40px;
+    color: rgb(255, 0, 140);
+    margin: 150px 130px;
+}
+.img2{
+    height: 330px;
+}
