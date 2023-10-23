@@ -13,8 +13,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://turenkoyuliia.github.io/react_counter/"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
